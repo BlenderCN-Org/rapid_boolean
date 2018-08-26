@@ -7,4 +7,4 @@ https://fictheader.github.io/documents/tools/beast.html#rapid-boolean
 ## Acknowledgement
 https://fictheader.github.io/documents/tools/beast.html#acknowledgement
 ## Developers
-https://fictheader.github.io/documents/tools/beast.html#developpers
+https://fictheader.github.io/documents/tools/beast.html#developers
